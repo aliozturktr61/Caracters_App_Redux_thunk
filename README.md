@@ -20,3 +20,4 @@
 9- @react-navigation/stack# Caharcters_App_Redux
 # Caracters_App_Redux_thunk
 # Caracters_App_Redux_thunk
+# Caracters_App_Redux_thunk
