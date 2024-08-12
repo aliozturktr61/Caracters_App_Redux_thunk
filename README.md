@@ -19,3 +19,4 @@
 8- react-native-screens react-native-safe-area-context
 9- @react-navigation/stack# Caharcters_App_Redux
 # Caracters_App_Redux_thunk
+# Caracters_App_Redux_thunk
